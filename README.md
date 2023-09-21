@@ -27,7 +27,8 @@ Replace "Pakistan" with the name of the country you want to display.
 Here's an example of how to use the application:
 
 Run the application.
-Enter latitude: 82.986944.52.5200 , longitude: 13.4050  .
+Enter latitude: 52.5200 
+      longitude: 13.4050  
 Click the "Plot" button.
 A red point will be displayed on the map at the specified coordinates.
 
